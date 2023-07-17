@@ -1,2 +1,4 @@
-# meetup
-meetup in China
+# 平台工程中国社区线下 Meetup
+
+**重要: 图片和PDF上传前务必尽量压缩**
+
