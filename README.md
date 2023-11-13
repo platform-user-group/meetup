@@ -24,3 +24,12 @@ Platform User Group 是一个自发组织的兴趣小组, 旨在推动 Platform 
   - B站视频: https://www.bilibili.com/video/BV1zx4y1R7gw/
 - [PDF 文件](beijing-20230715)
 
+## 2023.11.04 上海
+
+- 如何平衡平台效率与安全 - 使用 KusionStack 构建更高效更安全的开发者平台
+  - B站视频: https://www.bilibili.com/video/BV1Du4y1t7BY/
+- Zadig 面向开发者的云原生 DevOps 平台
+  - B站视频: https://www.bilibili.com/video/BV19G411Q7zY/
+- Bytebase：以开发者视角重构数据库变更管理
+  - B站视频: https://www.bilibili.com/video/BV1Wg4y197hV/
+- [PDF 文件](shanghai-20231104)
